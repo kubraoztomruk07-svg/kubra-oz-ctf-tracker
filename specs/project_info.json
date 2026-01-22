@@ -1,0 +1,13 @@
+{
+  "projectName": "CTF & Conference Tracker",
+  "category": "Service Management",
+  "author": "Kübra Öztomruk",
+  "version": "1.0.0",
+  "statement": "CTF ve güvenlik konferanslarını takip eden komut satırı aracı.",
+  "features": [
+    "Etkinlik listeleme",
+    "Tag'e göre filtreleme",
+    "Yaklaşan etkinlikleri gösterme"
+  ],
+  "autoTest": false
+}
